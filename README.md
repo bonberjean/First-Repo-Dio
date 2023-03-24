@@ -3,4 +3,4 @@
 First repository for DIO projects
 
 ## Link
-[Link de exemplo - Google] (https://www.google.com/)
+[Link de exemplo - Google](https://www.google.com/)
